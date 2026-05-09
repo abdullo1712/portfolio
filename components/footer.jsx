@@ -33,7 +33,7 @@ export function Footer() {
             viewport={{ once: true }}
           >
             <Link href="#home" className="inline-block mb-4">
-              <span className="text-3xl font-bold text-gradient">AC</span>
+              <span className="text-3xl font-bold text-gradient">A</span>
             </Link>
             <p className="text-muted-foreground leading-relaxed max-w-sm">
               Crafting digital experiences that blend creativity with technical excellence.

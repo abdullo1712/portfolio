@@ -12,7 +12,7 @@ const testimonials = [
     role: "CEO at TechStart",
     image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop&crop=face",
     quote:
-      "Alex transformed our vision into reality. The attention to detail and commitment to quality was exceptional. Our website now truly represents our brand.",
+      "Abdulo transformed our vision into reality. The attention to detail and commitment to quality was exceptional. Our website now truly represents our brand.",
   },
   {
     id: 2,

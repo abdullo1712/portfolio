@@ -27,7 +27,7 @@ function LoadingScreen() {
           transition={{ duration: 0.5 }}
           className="mb-8"
         >
-          <span className="text-6xl font-bold text-gradient">AC</span>
+          <span className="text-6xl font-bold text-gradient">A</span>
         </motion.div>
 
         {/* Loading bar */}
