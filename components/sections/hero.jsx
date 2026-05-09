@@ -70,7 +70,7 @@ export function Hero() {
       <div className="container mx-auto px-6 relative z-10">
         <div className="max-w-5xl mx-auto text-center">
           {/* Status badge */}
-          <motion.div
+          {/* <motion.div
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5 }}
@@ -80,7 +80,7 @@ export function Hero() {
             <span className="text-sm text-muted-foreground">
               Available for new projects
             </span>
-          </motion.div>
+          </motion.div> */}
 
           {/* Main heading */}
           <motion.h1
