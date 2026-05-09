@@ -40,7 +40,7 @@ export function Navbar() {
         <div className="container mx-auto px-6 flex items-center justify-between">
           {/* Logo */}
           <Link href="#home" className="relative group">
-            <span className="text-2xl font-bold text-gradient">A</span>
+            <span className="text-2xl font-bold text-gradient">Abdullo</span>
             <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-primary transition-all duration-300 group-hover:w-full" />
           </Link>
 
